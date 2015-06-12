@@ -35,3 +35,11 @@ if not result:
 # note that you can chain keys, so for channel 32 you would do:
 result = tv.do_keypress(tv.boxes["Living Room"], ["KEY_3","KEY_2"])
 ```
+
+# Other Things: (I'll finish this later)
+- Record Programs
+- Delete Recordings
+- Search
+- Get Scheduled Recordings
+- Get Reccomendations
+- More...
