@@ -31,6 +31,7 @@ for box in tv.boxes:
 result = tv.do_keypress(tv.boxes["Kitchen"], ["KEY_POWER"])
 if not result:
    print "Keypress Failed!"
-# change the channel (note how you can chain keys)
+# change the channel
+# note that you can chain keys, so for channel 32 you would do:
 result = tv.do_keypress(tv.boxes["Living Room"], ["KEY_3","KEY_2"])
 ```
