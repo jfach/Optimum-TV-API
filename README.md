@@ -1,5 +1,7 @@
 # Optimum-TV-API
 
+Status: Functional, but still lots to do!
+
 This is a python wrapper for the (first!) unofficial Optimum App API documented by your truly.
 
 To get everything up and running, you first need to get your hands on a Device ID.
