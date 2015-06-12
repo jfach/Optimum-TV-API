@@ -22,7 +22,7 @@ class API:
     def __init__(self,
                  optimum_ID=None,
                  password=None,
-                 device_ID=None, # TODO get deviceID somehow :(
+                 device_ID=None, # TODO get deviceID somehow, test
                  wifi_MAC=None,
                  device_type=None,
                  device_os=None,
