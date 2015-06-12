@@ -28,5 +28,9 @@ for box in tv.boxes:
    if box.recordable:
       print box.space
 ```
-
-
+# Turn Boxes On / Off
+```python
+result = tv.do_keypress(tv.boxes["Kitchen"], ["KEY_POWER"])
+if not result:
+   print "Keypress Failed!"
+```
