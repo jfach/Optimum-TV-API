@@ -1,11 +1,10 @@
 # Optimum TV API
 
-###Status: Functional, but still lots to do!
+###Status: Functional
 
-This is a python wrapper for the (first!) unofficial Optimum App API documented by your truly.
-You can use this library if you are a Cablevision/Optimum customer.
+This is a python wrapper for the unofficial Optimum App API.
 
-To get everything up and running, you first need to get your hands on a Device ID.
+To get everything up and running, you first need to obtain a Device ID.
 # Device ID
 A Device ID is a UUID4 format identifier that is generated when a machine uses the Optimum App for the first time. Unfortunately I have not yet been able to successfully reverse engineer the generation proccess, although locating your Device ID is a fairly trivial matter. 
 
