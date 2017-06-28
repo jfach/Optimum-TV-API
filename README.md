@@ -1,6 +1,6 @@
 # Optimum TV API
 
-###Status: Functional
+### Status: Functional
 
 This is a python wrapper for the unofficial Optimum App API.
 
